@@ -1,6 +1,5 @@
-# Implementation of Univariate Linear Regression
-## Name: Suriya Pravin M
-## Reg.No: 212223230223
+# Ex-1:Implementation of Univariate Linear Regression
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -20,6 +19,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ## Program:
 Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by:Suriya Pravin M
+Reg no: 212223230223
 
 ```
 import numpy as np
