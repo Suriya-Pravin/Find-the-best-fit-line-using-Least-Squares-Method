@@ -57,7 +57,8 @@ plt.show()
 ### Predicted Y Values
 ![4)](https://github.com/user-attachments/assets/2d784a41-3a3a-4465-8e2f-a907a9d35f4f)
 ### Graph
-![5)](https://github.com/user-attachments/assets/a1d04a12-62e1-4dc3-9446-fda70c61e248)
+![5)](https://github.com/user-attachments/assets/c1ab16be-d1da-47c3-9802-3a4581e33f35)
+
 
 
 
