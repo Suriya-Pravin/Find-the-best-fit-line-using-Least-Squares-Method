@@ -48,7 +48,19 @@ plt.show()
 ```
 
 ## Output:
-![Output](https://github.com/user-attachments/assets/e0b3a352-da00-419a-901f-25b81717dd4e)
+### X and Y Values
+![1)](https://github.com/user-attachments/assets/b4e27c65-cb28-467a-9a36-56f6117c21f2)
+### X_mean and Y_mean
+![2)](https://github.com/user-attachments/assets/cb7c3cf8-603f-40aa-a1b3-f85a16be87f5)
+### Slope and Intercept
+![3)](https://github.com/user-attachments/assets/01a3b20e-3d19-4ad4-a1d5-81455fdde280)
+### Predicted Y Values
+![4)](https://github.com/user-attachments/assets/2d784a41-3a3a-4465-8e2f-a907a9d35f4f)
+### Graph
+![5)](https://github.com/user-attachments/assets/a1d04a12-62e1-4dc3-9446-fda70c61e248)
+
+
+
 
 
 ## Result:
